@@ -3,6 +3,8 @@ package stringbufferExample;
 public class Demo {
 
 	public static void main(String[] args) {
+
+System.out.println("Hi Hello ******************");
 		StringBuffer sb=new StringBuffer("Rohini");
 		System.out.println(sb);
 		
